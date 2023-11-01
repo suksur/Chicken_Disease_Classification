@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 tensorflow
 pandas 
 dvc
@@ -36,3 +37,6 @@ Flask
 Flask-Cors
 -e .
 >>>>>>> 1dcb68b7aaee4523762423f0067ccb38226ae443
+=======
+
+>>>>>>> 49664c2f304569de263c83e971f2d03a8afac0e4
