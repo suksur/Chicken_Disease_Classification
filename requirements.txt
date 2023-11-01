@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tensorflow
 pandas 
 dvc
@@ -16,3 +17,22 @@ Flask
 Flask-Cors
 -e .
 
+=======
+tensorflow
+pandas 
+dvc
+notebook
+numpy
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+-e .
+>>>>>>> 1dcb68b7aaee4523762423f0067ccb38226ae443
